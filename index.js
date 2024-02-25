@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🧡 Invision Official Host"];
+const statusMessages = ["Invision Official Host"];
 
 
 let currentIndex = 0;
