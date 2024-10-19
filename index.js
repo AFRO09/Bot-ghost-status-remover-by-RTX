@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Invision Official Host"];
+const statusMessages = ["Official Afro Dev - Hosting 24/7"];
 
 
 let currentIndex = 0;
